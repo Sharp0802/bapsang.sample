@@ -1,0 +1,6 @@
+[submodule "LiveOV7670"]
+	path = LiveOV7670
+	url = https://github.com/indrekluuk/LiveOV7670
+[submodule "ArduImageCapture"]
+	path = ArduImageCapture
+	url = https://github.com/indrekluuk/ArduImageCapture
